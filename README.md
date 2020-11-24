@@ -42,6 +42,11 @@ Read more about me on [my site](https://sapegin.me/).
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The most useful accessibility testing tools and techniques](https://blog.sapegin.me//all/accessibility-testing/)
+- [Modern React testing, part 4: Cypress and Cypress Testing Library](https://blog.sapegin.me//all/react-testing-4-cypress/)
+- [Washing your code: avoid mutation](https://blog.sapegin.me//all/avoid-mutation/)
+- [Six donts of web app internationalization](https://blog.sapegin.me//all/internationalization/)
+- [Washing your code: avoid reassigning variables](https://blog.sapegin.me//all/avoid-reassigning-variables/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Me elsewhere
