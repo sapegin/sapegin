@@ -1,0 +1,15 @@
+name: Latest blog posts
+on:
+  # Run every day at 3AM
+  schedule:
+    - cron: '0 3 * * *' 
+  # Run manually (without waiting for the Cron to be called), through the Github Actions Workflow page directly
+  workflow_dispatch: 
+jobs:
+  blog-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.sapegin.me/atom.xml"
