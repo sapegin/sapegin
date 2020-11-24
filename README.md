@@ -39,6 +39,11 @@ Read more about me on [my site](https://sapegin.me/).
 - [Instagram photos from this day](https://every.morning.photos/) ([source](https://github.com/sapegin/every.morning.photos))
 - [Named CSS colors](https://sapegin.github.io/csscolors/) ([source](https://github.com/sapegin/csscolors))
 
+## Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Me elsewhere
 
 - [My blog](https://blog.sapegin.me/)
