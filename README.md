@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Read more about me on [my site](https://sapegin.me/).
+Read more about me on [my site](https://sapegin.me/), check out [my photos](https://morning.photos/). I’m learning to cook at [Tacohuaco](https://tacohuaco.co/).
 
 ## Main open source projects
 
