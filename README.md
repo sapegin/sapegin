@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I’m Artem Sapegin, a coffee first frontend engineer, award-losing photographer, and dog friend.
+I’m Artem Sapegin, a coffee first frontend engineer, award-losing photographer, occasional leathercrafter, and dreamer of a boring life.
 
-I live in Berlin, Germany, work at Omio, and interested in [photography](https://morning.photos/), [cooking](https://tacohuaco.co/), and leathercraft.
+I work at Omio, and interested in [photography](https://morning.photos/), [cooking](https://tacohuaco.co/), and leathercraft.
 
 Read more about me on [my site](https://sapegin.me/).
 
-**[I'm writing a book on clean code for frontend developers](https://leanpub.com/washingcode/)**
+**[I'm writing a book on clean code for frontend developers](https://sapegin.me/book/)**
 
 ## Main open source projects
 
@@ -35,7 +35,7 @@ Read more about me on [my site](https://sapegin.me/).
 
 ## Books
 
-- [Washing your code](https://leanpub.com/washingcode/) ([source](https://github.com/sapegin/washingcode-book))
+- [Washing your code](https://sapegin.me/book/) ([source](https://github.com/sapegin/washingcode-book))
 - [SurviveJS — Maintenance](https://survivejs.com/maintenance/) ([source](https://github.com/survivejs/maintenance-book))
 
 ## Apps and sites
@@ -46,6 +46,12 @@ Read more about me on [my site](https://sapegin.me/).
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Healthier way to open source your code](https://sapegin.me/blog/healthy-open-source/)
+- [Why I quit open source](https://sapegin.me/blog/open-source-no-more/)
+- [Migrating my blog from Gatsby to Astro](https://sapegin.me/blog/gatsby-to-astro/)
+- [Washing your code: naming is hard](https://sapegin.me/blog/naming/)
+- [Healing my open source addiction](https://sapegin.me/blog/ex-open-source/)
+- [Washing your code: avoid comments](https://sapegin.me/blog/avoid-comments/)
 - [A rebel’s guide to pull requests, commits, and code reviews](https://blog.sapegin.me/all/rebels-guide-to-pull-requests-commits-code-reviews/)
 - [Going offline](https://blog.sapegin.me/all/going-offline/)
 - [Writing cross-platform components for web and React Native](https://blog.sapegin.me/all/react-native-components/)
@@ -58,6 +64,6 @@ Read more about me on [my site](https://sapegin.me/).
 
 ## Me elsewhere
 
-- [My blog](https://blog.sapegin.me/)
+- [My blog](https://sapegin.me/sapegin/)
 - [Mastodon](https://mastodon.cloud/@sapegin)
 - [Twitter](https://twitter.com/iamsapegin)
